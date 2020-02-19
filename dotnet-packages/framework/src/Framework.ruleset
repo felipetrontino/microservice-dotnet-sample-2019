@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RuleSet Name="SonarQube - AMBEV-Blindando-Tracking Sonar way" ToolsVersion="16.0">
+  <Include Path="..\..\..\dotnet-solutions\.sonarlint\ambev-blindando-trackingcsharp.ruleset" Action="Default" />
+</RuleSet>
